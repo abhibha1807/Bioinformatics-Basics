@@ -7,4 +7,5 @@ This file contains implmentations in python of some of the problems I solved for
 3) Booyre Moore algorithm
 4) Generate D-neighbourhood of a string
 5) Find the most frequent k-mers of a string
+6) Golub data exploration in R.
 
